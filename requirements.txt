@@ -2,3 +2,4 @@ Flask
 Numpy
 Pillow
 flask-httpauth
+flask_login
